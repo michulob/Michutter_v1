@@ -1,0 +1,70 @@
+#tweet{
+  border: 5px solid black;
+  width: 800px;
+  height: auto;
+  float: left;
+}
+
+#kontener{
+  float: left;
+}
+
+#log{
+  border: 3px solid black;
+  width: 300px;
+  height: 200px;
+}
+
+.error{
+  color: red;
+}
+
+.tweet{
+  background-color:  #aaaaaa;
+  border-top: 3px solid red;
+}
+
+.text{
+  font-size: 16px;
+  background-color:  #aaaa01;
+  padding: 10px;
+}
+
+.dataTweet{
+  font-size: 12px;
+  display: inline;
+}
+
+.from{
+  font-size: 11px;
+  background-color: #cccccc;
+  width: 200px;
+  padding: 5px;
+}
+
+.comment{
+  font-size: 11px;
+  background-color: #FFFF03;
+}
+
+.textC{
+  font-size: 14px;
+  background-color:  #aaca01;
+  padding: 5px;
+}
+
+.message{
+  font-size: 16px;
+  background-color:  #ccaabb;
+  padding: 8px;
+  border: 3px solid black;
+  width: 500px;
+}
+
+.messageReaded{
+  font-size: 13px;
+  background-color:  #bbca01;
+  padding: 3px;
+  border: 1px dashed black;
+  width: 500px;
+}
